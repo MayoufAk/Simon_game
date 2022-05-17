@@ -1,5 +1,5 @@
 # Simon_game
- Our game logic will be created inside an external Javascript file.
+ the game's logic will be created inside an external Javascript file.
  it might be worth reviewing how the Simon game works.
 
 Firstly, the game shows the first colour in the sequence (blue). The user clicks on the blue button.
